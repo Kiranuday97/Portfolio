@@ -1,0 +1,13 @@
+
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    @media screen and (max-width: 640px) {
+        flex-direction: column;
+       font-size: x-small;
+       
+      }
+}
+
+
+
